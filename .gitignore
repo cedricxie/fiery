@@ -6,3 +6,5 @@ output_vis/
 *.ipynb_checkpoints
 *.ipynb
 *.ckpt
+
+.venv/
